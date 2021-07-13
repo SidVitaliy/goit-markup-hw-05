@@ -845,8 +845,8 @@ padding-top: 27px;
 
 }
 
-.img-list-link:hover .portfolio-overlay,
-.img-list-link:focus .portfolio-overlay{
+.img-link:hover .portfolio-overlay,
+.img-link:focus .portfolio-overlay {
     transform: translateY(0);
 }
 
